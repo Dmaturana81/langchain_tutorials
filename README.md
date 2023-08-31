@@ -5,18 +5,6 @@
 This file will become your README and also the index of your
 documentation.
 
-## Install
+# In Construction
 
-``` sh
-pip install langchain_tutorials
-```
-
-## How to use
-
-Fill me in please! Don’t forget code examples:
-
-``` python
-1+1
-```
-
-    2
+Example of Router Chain using OpenAI functions
