@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "langchain_tutorials"
+  site-url: "https://Dmaturana81.github.io/langchain_tutorials"
+  description: "Examples and tutorial for langchain"
+  repo-branch: main
+  repo-url: "https://github.com/Dmaturana81/langchain_tutorials"
