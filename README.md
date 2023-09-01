@@ -5,6 +5,7 @@
 This file will become your README and also the index of your
 documentation.
 
-# In Construction
+# Examples
 
-Example of Router Chain using OpenAI functions
+Example of Router Chain using OpenAI functions `routerchaina` Example of
+OpenAI functions to extract data `extraction`
