@@ -7,5 +7,6 @@ documentation.
 
 # Examples
 
-Example of Router Chain using OpenAI functions `routerchaina` Example of
-OpenAI functions to extract data `extraction`
+1.  Example of Router Chain using OpenAI functions `routerchain`
+
+2.  Example of OpenAI functions to extract data `extraction`
