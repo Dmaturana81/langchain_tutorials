@@ -5,3 +5,4 @@ website:
       - 00_core.ipynb
       - 01_RouterChain.ipynb
       - 02_extracting.ipynb
+      - 03_dataloader_string.ipynb
